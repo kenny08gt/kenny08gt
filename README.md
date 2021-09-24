@@ -9,7 +9,7 @@ I've been working as a profesional for over 5 years now, but I've been programmi
 
 Im a tech lover, I love to learn new tecnologies and open my mind to new paradigsm or things unique of each framework or language. 
 
-I'm currenlty taking a coursera course (DeepLearning.AI TensorFlow Developer), you can check my progress here https://github.com/kenny08gt/coursera-tensorflow-js/
+I'm currenlty taking a udemy course about recommendation systems with ML and AI, you can check my progress here https://unique-windshield-26d.notion.site/Building-recommender-systems-with-ml-and-AI-78ece685d352498299ef861aa533e6a1
 
 Also subscribed to Platzi, where Im learning a lot of stuff, check my profile (https://platzi.com/p/alan_hurtarte/)
 
