@@ -11,6 +11,8 @@ Im a tech lover, I love to learn new tecnologies and open my mind to new paradig
 
 I'm currenlty taking a udemy course about recommendation systems with ML and AI, you can check my progress here https://unique-windshield-26d.notion.site/Building-recommender-systems-with-ml-and-AI-78ece685d352498299ef861aa533e6a1
 
+Also I'm learning about web 3.0 with buildspace and cryptozombies, check my first web3.0 project (https://ether-favorite-songs.alanhurtarte.repl.co/)
+
 Also subscribed to Platzi, where Im learning a lot of stuff, check my profile (https://platzi.com/p/alan_hurtarte/)
 
 
